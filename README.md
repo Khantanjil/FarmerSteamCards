@@ -39,7 +39,7 @@ Start the application with
 ```sh
 node idler.js
 ```
-If appears any errors please speak with me on this [discussion]([https://github.com/Khantanjil/FarmerSteamCards/issues/1](https://github.com/Khantanjil/FarmerSteamCards/issues/1))
+If appears any errors please speak with me on this [discussion](https://github.com/Khantanjil/FarmerSteamCards/issues/1)
 
 ## How to use this program
 First of all you need to install it, and after, run the program with `node idler.js`
@@ -69,10 +69,10 @@ console.log("Playing the games and idling cards...")
 You can go to the [Steam Database]([https://steamdb.info/](https://steamdb.info/)). Search the game of what do you want to farm cards and copy paste the APPID.![enter image description here](https://cdn.discordapp.com/attachments/700777576192409702/700781201782472794/Screenshot_from_2020-04-17_19-54-06.png)
 
 
-If appears any errors please speak with me on this [discussion]([https://github.com/Khantanjil/FarmerSteamCards/issues/1](https://github.com/Khantanjil/FarmerSteamCards/issues/1))
+If appears any errors please speak with me on this [discussion](https://github.com/Khantanjil/FarmerSteamCards/issues/1)
 
 ![thank you!](https://img.shields.io/badge/say-thanks-ff69b4.svg)
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)]([https://steamcommunity.com/id/tanjil](https://steamcommunity.com/id/tanjil))
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://steamcommunity.com/id/tanjil)
 
 License
 ----
