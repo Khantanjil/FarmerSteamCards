@@ -35,6 +35,14 @@ Resolving deltas: 100% (190/190), done.
 > cd FarmerSteamCards
 ```
 ## Running the farmer
+Requirements:
+
+You need to have nodejs installed, and you should install it to run the application with the following command
+
+```sh
+sudo apt install nodejs
+```
+
 Start the application with 
 ```sh
 node idler.js
