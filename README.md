@@ -38,9 +38,12 @@ Resolving deltas: 100% (190/190), done.
 Requirements:
 
 You need to have nodejs installed, and you should install it to run the application with the following command
+And you need to install npm
 
 ```sh
 sudo apt install nodejs
+sudo apt install npm
+npm install prompt
 ```
 
 Start the application with 
